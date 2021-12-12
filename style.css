@@ -6,10 +6,12 @@ body {
  
 h1, h2 {
     border-radius: 15px;
+    background-color:#00FA9A;
     border:5px solid #00FA9A;
     padding: 5px;
     color: 	#F5FFFA;
     text-align: center;
+    
 img{
     text-align: center;
     width: 150px;
